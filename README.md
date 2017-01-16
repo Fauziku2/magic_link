@@ -20,8 +20,7 @@ This app offers reliable URL shortening which is very simple very simple to use.
 * If you enter a valid URL into the URL field and click Shorten my URL, the app will generate a new shorten URL as shown in the following image.
 <img width="1258" alt="screen shot 2017-01-16 at 3 31 28 pm" src="https://cloud.githubusercontent.com/assets/22285452/21974308/fc1b0c8a-dc00-11e6-860a-bc4d2e3c7c0b.png">
 
-
-<img width="1258" alt="screen shot 2017-01-16 at 3 31 44 pm" src="https://cloud.githubusercontent.com/assets/22285452/21974345/1e42cf1e-dc01-11e6-9d4f-b954ed77b44e.png">
+<img width="1266" alt="screen shot 2017-01-16 at 3 31 44 pm" src="https://cloud.githubusercontent.com/assets/22285452/21974395/7d031d06-dc01-11e6-96d5-56c4c8c1c013.png">
 
 ##Technology used
 
