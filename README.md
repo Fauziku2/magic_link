@@ -1,4 +1,6 @@
-#URL Shortener
+##URL Shortener
+
+This app is named Magic! Link
 
 #Description
 
