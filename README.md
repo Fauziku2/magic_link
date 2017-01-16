@@ -17,7 +17,7 @@ This app offers reliable URL shortening which is very simple very simple to use.
 * If you enter an invalid URL into the your URL field and click Shorten my URL(for example ww.invalid_URL.com), you’ll see the following image.
 <img width="1247" alt="screen shot 2017-01-16 at 3 26 49 pm" src="https://cloud.githubusercontent.com/assets/22285452/21974199/46120ff6-dc00-11e6-981f-4e1a694f6f6f.png">
 
-* If you enter a valid URL into the URL field and click Shorten my URL, the app will generate a new shorten URL as shown in the following image.
+* If you enter a valid URL into the URL field and click Shorten my URL
 <img width="1258" alt="screen shot 2017-01-16 at 3 31 28 pm" src="https://cloud.githubusercontent.com/assets/22285452/21974308/fc1b0c8a-dc00-11e6-860a-bc4d2e3c7c0b.png">
 
 * The app will generate a new shorten URL as shown in the following image
