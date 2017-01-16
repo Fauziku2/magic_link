@@ -1,0 +1,48 @@
+.centered {
+  margin: 0 auto;
+  padding-top: 100px;
+}
+.header {
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+  margin: 0 auto;
+}
+.tagline {
+  color: white;
+  font-size: 28px;
+}
+
+/*.center_div{
+    margin: 0 auto;
+    width:80%
+}*/
+
+.text-box {
+  width: 400px;
+  height: 35px;
+  border-radius: 5px;
+}
+.form {
+  padding-top: 15px;
+}
+.shortened-link {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.shortened-link1 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+.error-messages {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding-top: 10px;
+}
+.new_form {
+  margin: 0 auto;
+}

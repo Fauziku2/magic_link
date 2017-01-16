@@ -13,3 +13,7 @@ module MagicLink
     # -- all .rb files in that directory are automatically loaded.
   end
 end
+
+ActionView::Base.field_error_proc = Proc.new do |html_tag, instance|
+  html_tag.html_safe
+end

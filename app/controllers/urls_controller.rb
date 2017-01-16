@@ -1,6 +1,7 @@
 class UrlsController < ApplicationController
   def new
     @shortened_url = Url.new
+    render "new"
   end
 
   def create
@@ -9,7 +10,9 @@ class UrlsController < ApplicationController
       flash[:shortened_id] = @shortened_url.id
       redirect_to new_url_url
     else
-      render :action => "new"
+      # redirect_to root
+      # redirect_to new_url_url
+      render "new"
     end
   end
 
