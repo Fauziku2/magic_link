@@ -6,6 +6,10 @@ This app is named Magic! Link
 
 This app offers reliable URL shortening which is very simple very simple to use. Just paste your link in the form on the home page and submit. You will be redirected to a result page with your shortened link.
 
+##Demo
+
+* Going to the console and starting the Rails server, reload http://localhost:3000 in your browser and you should see the following.
+
 ##Technology used
 
 This app is built with Rails 5.0.0 and Ruby 2.3.3 on the backend. The database is SQLite3.
